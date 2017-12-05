@@ -1,0 +1,1 @@
+##Man muss das Programm ausführen indem man erst javac und dann java mit der entsprechenden Datei durchführt. 
